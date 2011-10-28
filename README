@@ -1,0 +1,1 @@
+For now, this Puppet module only provides an fact 'rubygemversion' and an Puppet parser function 'gem_fixed_version', returning the lastest version of a given gem.
